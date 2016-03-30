@@ -24,6 +24,11 @@ Accept a hyphen (-) to represent standard output when used as the output filepat
 $ node application.js -i input.json -o -
 ...would write the resulting object to stdout instead of a file.
 
+run 
+
+npm install
+
+in the project root to download npm dependencies.
 
 tests :
 
