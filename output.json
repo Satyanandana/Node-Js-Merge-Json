@@ -1,0 +1,16 @@
+{
+    "blue": true,
+    "red": false,
+    "green": [
+        1,
+        2,
+        3
+    ],
+    "b": {
+        "hello": "hello",
+        "world": "world",
+        "goodbye": "goodbye"
+    },
+    "c": "green",
+    "a": 10
+}
